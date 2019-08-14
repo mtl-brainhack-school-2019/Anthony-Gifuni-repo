@@ -25,5 +25,8 @@ Scanning sessions include:
 
 ## Objectives for the brain hack 2019:
 
-1) Organize my data set into the BIDS format
+1) Organize my data set into the BIDS format.
+2) Start running fMRIprep on the sample using Compute Canada Resources.
+3) Learn how to use nilearn and other python libraries to analyze resting-state functional connectivity.
+4) Using python libraries to analyse task-based fMRI.
 
