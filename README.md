@@ -71,7 +71,8 @@ For fonctional connectivity analysis:
 * Python script for group analysis
 * Network connectivity : visualized with python tools
 
-Here is an example of some of figures I would like to generate for this project.
+Here is an example of some of figures I would like to generate for this project:
+https://www.pnas.org/content/116/17/8582.short
 ![deliverable](https://www.pnas.org/content/pnas/116/17/8582/F1.large.jpg?width=800&height=600&carousel=1)
 
 ## To-do list and lingering issues 
