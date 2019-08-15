@@ -1,7 +1,7 @@
 # Anthony-Gifuni-repo
 __*Exploring Brain Connectivity Networks in Adolescent Suicide Attempters*__
 
-## Personal Info
+## Personal Info :)
 
 * Name: Anthony Gifuni. 
 * Education:
