@@ -44,6 +44,10 @@ __*Exploring Brain Connectivity Networks in Adolescent Suicide Attempters*__
 - 2) Preprocessing with fMRI prep
 - 3) Analysis of fuctional connectivity using nilearn
 
+## New tools and protocols
+
+![BIDS](https://bids.neuroimaging.io/Whitelogo_transparent.png)
+
 ## To-do list and lingering issues 
 
 - 1) Organize my data set into the BIDS format. 
