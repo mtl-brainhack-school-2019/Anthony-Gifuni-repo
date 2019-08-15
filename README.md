@@ -40,10 +40,10 @@ __*Exploring Brain Connectivity Networks in Adolescent Suicide Attempters*__
 
 ## Objectives for the brain hack 2019:
 
-[] Organize my data set into the BIDS format.
-[] Start running fMRIprep on the sample using Compute Canada Resources.
-[] Learn how to use nilearn and other python libraries to analyze resting-state functional connectivity.
-[] Using python libraries to analyse task-based fMRI.
+[ ] Organize my data set into the BIDS format.
+[ ] Start running fMRIprep on the sample using Compute Canada Resources.
+[ ] Learn how to use nilearn and other python libraries to analyze resting-state functional connectivity.
+[ ] Using python libraries to analyse task-based fMRI.
 
 ## Website
 
