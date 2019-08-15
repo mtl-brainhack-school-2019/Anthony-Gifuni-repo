@@ -51,17 +51,27 @@ __*Exploring Brain Connectivity Networks in Adolescent Suicide Attempters*__
 
 ## New tools and protocols
 
+To standardized my data:
 ![BIDS](https://upload.wikimedia.org/wikipedia/commons/d/de/BIDS_Logo.png)
+
+To preprocess my data:
 ![fmriprep](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41592-018-0235-4/MediaObjects/41592_2018_235_Fig1_HTML.png)
+
+For processing fmriprep with singularity:
 ![ComputeCanada](https://www.computecanada.ca/wp-content/uploads/2015/04/BILINGUAL-CC-WEB-LOGO.png)
+
+For fonctional connectivity analysis:
 ![nilearn](https://nilearn.github.io/_static/nilearn-logo.png)
 
 ## Deliverables
 
-* Preprocessed images
+* Preprocessed images with fmriprep output
 * Connectivity matrices
-* Network connectivity
+* Jupyter notebook demonstrating analysis for single subjects
+* Python script for group analysis
+* Network connectivity : visualized with python tools
 
+Here is an example of some of figures I would like to generate for this project.
 ![deliverable](https://www.pnas.org/content/pnas/116/17/8582/F1.large.jpg?width=800&height=600&carousel=1)
 
 ## To-do list and lingering issues 
@@ -85,7 +95,6 @@ __*Exploring Brain Connectivity Networks in Adolescent Suicide Attempters*__
 ## Website
 
 https://douglas.research.mcgill.ca/fr/centre-manuvie-pour-les-avancees-en-prevention-de-la-depression-et-du-suicide-chez-les-jeunes
-
 
 
 ## Aknowledgments
