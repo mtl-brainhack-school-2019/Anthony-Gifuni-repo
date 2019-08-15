@@ -1,9 +1,15 @@
 # Anthony-Gifuni-repo
-*Exploring the Saliency Network Connectivity in Adolescent Suicide Attempters*
+*Exploring Brain Connectivity Networks in Adolescent Suicide Attempters*
 
-## Personal Bio
+## Personal Info
 
-Hi, my name is Anthony Gifuni. I'm a young psychiatrist, graduated from McGill University. I obtained my MD and a MSc from Université de Montreal in 2012. I'm now completing my PhD in Neuroscience at McGill, set to finish this year. My interests include mood disorders and suicidal behaviors emphasizing their neural correlates in the context of adolescent brain development. I'm dedicated at translating research advances in neuroimaging to advance psychiatric clinical care and modifying positively trajectories. 
+* Name: Anthony Gifuni. 
+* Education:
+  -MD, MSc, Université de Montreal (2012)
+  -Residence in psychiatry, McGill University (2017)
+  -PhD in Neurosciences, McGill university (current)
+
+
 
 ## General Background
 
@@ -29,4 +35,9 @@ Scanning sessions include:
 2) Start running fMRIprep on the sample using Compute Canada Resources.
 3) Learn how to use nilearn and other python libraries to analyze resting-state functional connectivity.
 4) Using python libraries to analyse task-based fMRI.
+
+
+## Acknoledgment
+
+![FQRS](https://conference.ccra-acrc.ca/wp-content/uploads/2016/11/img-supporter-logo-frqs.png)
 
