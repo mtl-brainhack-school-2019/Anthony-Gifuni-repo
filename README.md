@@ -56,6 +56,13 @@ __*Exploring Brain Connectivity Networks in Adolescent Suicide Attempters*__
 ![ComputeCanada](https://www.computecanada.ca/wp-content/uploads/2015/04/BILINGUAL-CC-WEB-LOGO.png)
 ![nilearn](https://nilearn.github.io/_static/nilearn-logo.png)
 
+## Deliverables
+
+* Preprocessed images
+* Connectivity matrices
+* Network connectivity
+
+![deliverable](https://www.pnas.org/content/pnas/116/17/8582/F1.large.jpg?width=800&height=600&carousel=1)
 
 ## To-do list and lingering issues 
 
@@ -66,6 +73,8 @@ __*Exploring Brain Connectivity Networks in Adolescent Suicide Attempters*__
 - 2) Preprocessing with fMRI prep
   - [ ] Run fmriprep on 1 or 2 participants using singularity on Compute Canada
   - [ ] Run fmriprep on whole sample (without freesurfer)
+- 3) Motion correction and confound regression
+  - [ ] Select confound regression method
 - 3) Analysis of fuctional connectivity using nilearn
   - [ ] Connectivity matrix 
   - [ ] Between- and within- network connectivity metrics
