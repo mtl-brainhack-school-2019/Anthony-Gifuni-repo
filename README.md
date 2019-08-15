@@ -46,7 +46,10 @@ __*Exploring Brain Connectivity Networks in Adolescent Suicide Attempters*__
 
 ## New tools and protocols
 
-![BIDS](https://bids.neuroimaging.io/Whitelogo_transparent.png) `#f03c15`
+![BIDS](https://upload.wikimedia.org/wikipedia/commons/d/de/BIDS_Logo.png)
+![fmriprep](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41592-018-0235-4/MediaObjects/41592_2018_235_Fig1_HTML.png)
+![ComputeCanada]
+![nilearn](https://nilearn.github.io/_static/nilearn-logo.png)
 
 ## To-do list and lingering issues 
 
