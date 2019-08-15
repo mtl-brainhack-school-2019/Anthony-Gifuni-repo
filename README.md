@@ -12,7 +12,7 @@ __*Exploring Brain Connectivity Networks in Adolescent Suicide Attempters*__
 ## Current research affiliation
 
 ### McGill Group for Suicide Studies
-![MGSS](https://mgss.ca/images/mgss-logo.jpg width="150" height="150")
+![MGSS](https://mgss.ca/images/mgss-logo.jpg)
 
 ### Douglas Mental Health University Institute
 ![DMHUI;Mcgill](http://publications.mcgill.ca/medenews/files/2013/10/Douglas-McGill.jpg)
