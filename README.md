@@ -46,7 +46,7 @@ __*Exploring Brain Connectivity Networks in Adolescent Suicide Attempters*__
 
 ## New tools and protocols
 
-![BIDS](https://bids.neuroimaging.io/Whitelogo_transparent.png)
+![BIDS](https://bids.neuroimaging.io/Whitelogo_transparent.png) `#f03c15`
 
 ## To-do list and lingering issues 
 
