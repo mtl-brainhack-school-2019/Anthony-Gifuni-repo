@@ -36,8 +36,11 @@ Scanning sessions include:
 3) Learn how to use nilearn and other python libraries to analyze resting-state functional connectivity.
 4) Using python libraries to analyse task-based fMRI.
 
+## Website
 
-## Acknoledgment
+https://douglas.research.mcgill.ca/fr/centre-manuvie-pour-les-avancees-en-prevention-de-la-depression-et-du-suicide-chez-les-jeunes
+
+## Aknowledgments
 
 ![FQRS](https://conference.ccra-acrc.ca/wp-content/uploads/2016/11/img-supporter-logo-frqs.png)
-
+![Manulife](https://upload.wikimedia.org/wikipedia/en/thumb/1/11/Manulife_logo_%282018%29.svg/1280px-Manulife_logo_%282018%29.svg.png)
