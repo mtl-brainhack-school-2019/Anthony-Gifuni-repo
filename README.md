@@ -38,6 +38,11 @@ __*Exploring Brain Connectivity Networks in Adolescent Suicide Attempters*__
 * T1 anatomical scan (MPRAGE - adni protocol)
 * Diffusion Tensor Imaging
 
+## Ongoing results: Structural analysis
+![image](https://lh3.googleusercontent.com/z00qKZ209XwpBCIYBqECLENDowFuhK7O5MxdwdMOys6Gb8HxoyH2lB1P0_V_kfXitYYv0ry3ioPl1HjhB_xrC1b-PElSk_A39DS-oUo_NKURcOgpnRi6-dVLS0Z1Ln9sG6TMTaREfg)
+![image](https://lh3.googleusercontent.com/z00qKZ209XwpBCIYBqECLENDowFuhK7O5MxdwdMOys6Gb8HxoyH2lB1P0_V_kfXitYYv0ry3ioPl1HjhB_xrC1b-PElSk_A39DS-oUo_NKURcOgpnRi6-dVLS0Z1Ln9sG6TMTaREfg)
+
+
 ## Objectives for the brain hack 2019:
 
 - 1) Organize my data set into the BIDS format. 
@@ -50,7 +55,8 @@ __*Exploring Brain Connectivity Networks in Adolescent Suicide Attempters*__
 ![fmriprep](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41592-018-0235-4/MediaObjects/41592_2018_235_Fig1_HTML.png)
 ![ComputeCanada](https://www.computecanada.ca/wp-content/uploads/2015/04/BILINGUAL-CC-WEB-LOGO.png)
 ![nilearn](https://nilearn.github.io/_static/nilearn-logo.png)
-![image](https://lh3.googleusercontent.com/z00qKZ209XwpBCIYBqECLENDowFuhK7O5MxdwdMOys6Gb8HxoyH2lB1P0_V_kfXitYYv0ry3ioPl1HjhB_xrC1b-PElSk_A39DS-oUo_NKURcOgpnRi6-dVLS0Z1Ln9sG6TMTaREfg)
+
+
 ## To-do list and lingering issues 
 
 - 1) Organize my data set into the BIDS format. 
@@ -70,6 +76,8 @@ __*Exploring Brain Connectivity Networks in Adolescent Suicide Attempters*__
 ## Website
 
 https://douglas.research.mcgill.ca/fr/centre-manuvie-pour-les-avancees-en-prevention-de-la-depression-et-du-suicide-chez-les-jeunes
+
+
 
 ## Aknowledgments
 
