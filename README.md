@@ -40,7 +40,7 @@ __*Exploring Brain Connectivity Networks in Adolescent Suicide Attempters*__
 
 ## Ongoing results: Structural analysis
 ![image](https://lh3.googleusercontent.com/z00qKZ209XwpBCIYBqECLENDowFuhK7O5MxdwdMOys6Gb8HxoyH2lB1P0_V_kfXitYYv0ry3ioPl1HjhB_xrC1b-PElSk_A39DS-oUo_NKURcOgpnRi6-dVLS0Z1Ln9sG6TMTaREfg)
-![image](https://lh3.googleusercontent.com/z00qKZ209XwpBCIYBqECLENDowFuhK7O5MxdwdMOys6Gb8HxoyH2lB1P0_V_kfXitYYv0ry3ioPl1HjhB_xrC1b-PElSk_A39DS-oUo_NKURcOgpnRi6-dVLS0Z1Ln9sG6TMTaREfg)
+![image](https://lh3.googleusercontent.com/psRjQQghhzoPGIheuxmPEa9IHLDEcRi5DNXXUg0G8WrclvDKyunDhb936E9DpjTBlLoGoaLKS_wsZ53MD4BlQXEcgywceTfSCMYNui7_oiVAVnNiz-AzqiycDPcV0GuyLAx7scVEiA)
 
 
 ## Objectives for the brain hack 2019:
