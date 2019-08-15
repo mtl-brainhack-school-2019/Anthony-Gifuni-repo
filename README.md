@@ -40,10 +40,21 @@ __*Exploring Brain Connectivity Networks in Adolescent Suicide Attempters*__
 
 ## Objectives for the brain hack 2019:
 
-- [ ] Organize my data set into the BIDS format.
-- [ ] Start running fMRIprep on the sample using Compute Canada Resources.
-- [ ] Learn how to use nilearn and other python libraries to analyze resting-state functional connectivity.
-- [ ] Using python libraries to analyse task-based fMRI.
+- 1) Organize my data set into the BIDS format. 
+- 2) Preprocessing with fMRI prep
+- 3) Analysis of fuctional connectivity using nilearn
+
+## To-do list and lingering issues 
+
+- 1) Organize my data set into the BIDS format. 
+  - [x] Apply dcm2bids to dataset
+  - [x] Run bids dataset in the BIDS validator
+  - [ ] Clean data set 
+- 2) Preprocessing with fMRI prep
+  - [ ] Run fmriprep on single user using singularity on Compute Canada
+  - [ ] 
+- 3) Analysis of fuctional connectivity using nilearn
+
 
 ## Website
 
