@@ -1,13 +1,13 @@
 # Anthony-Gifuni-repo
-*Exploring Brain Connectivity Networks in Adolescent Suicide Attempters*
+__*Exploring Brain Connectivity Networks in Adolescent Suicide Attempters*__
 
 ## Personal Info
 
 * Name: Anthony Gifuni. 
 * Education:
-  -MD, MSc, Université de Montreal (2012)
-  -Residence in psychiatry, McGill University (2017)
-  -PhD in Neurosciences, McGill university (current)
+  ** -MD, MSc, Université de Montreal (2012)
+  ** -Residence in psychiatry, McGill University (2017)
+  ** -PhD in Neurosciences, McGill university (current)
 
 ## Current research affiliation
 
