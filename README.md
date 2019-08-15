@@ -9,7 +9,13 @@
   -Residence in psychiatry, McGill University (2017)
   -PhD in Neurosciences, McGill university (current)
 
+## Current research affiliation
 
+### McGill Group for Suicide Studies
+![MGSS](https://mgss.ca/images/mgss-logo.jpg)
+
+### Douglas Mental Health University Institute
+![DMHUI;Mcgill](http://publications.mcgill.ca/medenews/files/2013/10/Douglas-McGill.jpg)
 
 ## General Background
 
