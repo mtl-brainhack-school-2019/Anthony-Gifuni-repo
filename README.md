@@ -48,19 +48,23 @@ __*Exploring Brain Connectivity Networks in Adolescent Suicide Attempters*__
 
 ![BIDS](https://upload.wikimedia.org/wikipedia/commons/d/de/BIDS_Logo.png)
 ![fmriprep](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41592-018-0235-4/MediaObjects/41592_2018_235_Fig1_HTML.png)
-![ComputeCanada]
+![ComputeCanada](https://www.computecanada.ca/wp-content/uploads/2015/04/BILINGUAL-CC-WEB-LOGO.png)
 ![nilearn](https://nilearn.github.io/_static/nilearn-logo.png)
-
+![image]https://lh3.googleusercontent.com/z00qKZ209XwpBCIYBqECLENDowFuhK7O5MxdwdMOys6Gb8HxoyH2lB1P0_V_kfXitYYv0ry3ioPl1HjhB_xrC1b-PElSk_A39DS-oUo_NKURcOgpnRi6-dVLS0Z1Ln9sG6TMTaREfg
 ## To-do list and lingering issues 
 
 - 1) Organize my data set into the BIDS format. 
   - [x] Apply dcm2bids to dataset
   - [x] Run bids dataset in the BIDS validator
-  - [ ] Clean data set 
+  - [ ] Clean data set (main data set already cleaned)
 - 2) Preprocessing with fMRI prep
-  - [ ] Run fmriprep on single user using singularity on Compute Canada
-  - [ ] 
+  - [ ] Run fmriprep on 1 or 2 participants using singularity on Compute Canada
+  - [ ] Run fmriprep on whole sample (without freesurfer)
 - 3) Analysis of fuctional connectivity using nilearn
+  - [ ] Connectivity matrix 
+  - [ ] Between- and within- network connectivity metrics
+  - [ ] Group comparison
+  - [ ] Predictive modelling with machine learning
 
 
 ## Website
