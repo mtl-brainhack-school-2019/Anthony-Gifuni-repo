@@ -45,11 +45,10 @@ __*Exploring Brain Functional Activation in Adolescents Who Attempted Suicide*__
 ## Deliverables (contained in the current repo)
 
 * 1) Jupyter Notebook with code to produce interactive plots of my structural data
-* 2) Summary of the process of converting my data set to BIDS using dcm2bids
-* 3) Batch script used on Compute Canada to run fmriprep of results
-* 4) Jupyter Notebook with code for first-level analysis
-* 5) Jupyter Notebook with code for second-level analysis
-* 6) Summary of the process of submitting a PR on the Nistat repo
+* 2) Batch script used on Compute Canada to run fmriprep of results
+* 3) Jupyter Notebook with code for first-level analysis
+* 4) Jupyter Notebook with code for second-level analysis
+* 5) Summary of the process of submitting a PR on the Nistat repo
 
 
 
