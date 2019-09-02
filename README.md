@@ -42,16 +42,6 @@ __*Exploring Brain Functional Activation in Adolescents Who Attempted Suicide*__
 - 4) Learning the basic mechanisms of Github and contribute to a developing project (Nistat)
 - 5) Implement first-level and second-level analysis of task-based fMRI with nistat
 
-## New tools and protocols
-To standardized my data:
-![BIDS](https://upload.wikimedia.org/wikipedia/commons/d/de/BIDS_Logo.png =100x20)
-
-To preprocess my data:
-![fmriprep](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41592-018-0235-4/MediaObjects/41592_2018_235_Fig1_HTML.png)
-
-For processing fmriprep with singularity:
-![ComputeCanada](https://www.computecanada.ca/wp-content/uploads/2015/04/BILINGUAL-CC-WEB-LOGO.png)
-
 ## Deliverables (contained in the current repo)
 
 * 1) Jupyter Notebook with code to produce interactive plots of my structural data
