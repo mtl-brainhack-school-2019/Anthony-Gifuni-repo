@@ -35,14 +35,12 @@ __*Exploring Brain Functional Activation in Adolescents Who Attempted Suicide*__
 * T1 anatomical scan (MPRAGE - adni protocol)
 * Diffusion Tensor Imaging
 
-## Ongoing results: Structural analysis
-![image](https://lh3.googleusercontent.com/z00qKZ209XwpBCIYBqECLENDowFuhK7O5MxdwdMOys6Gb8HxoyH2lB1P0_V_kfXitYYv0ry3ioPl1HjhB_xrC1b-PElSk_A39DS-oUo_NKURcOgpnRi6-dVLS0Z1Ln9sG6TMTaREfg)
-![image](https://lh3.googleusercontent.com/psRjQQghhzoPGIheuxmPEa9IHLDEcRi5DNXXUg0G8WrclvDKyunDhb936E9DpjTBlLoGoaLKS_wsZ53MD4BlQXEcgywceTfSCMYNui7_oiVAVnNiz-AzqiycDPcV0GuyLAx7scVEiA)
-
 ## Objectives for the brain hack 2019:
-- 1) Organize my data set into the BIDS format. 
-- 2) Preprocessing with fMRIprep
-- 3) Implement first-level and second-level analysis of task-based fMRI
+- 1) Develop advanced visualization tools for my current structural data
+- 2) Organize my data set into the BIDS format. 
+- 3) Preprocessing with fMRIprep on Compute Canada
+- 4) Learning the basic mechanisms of Github and contribute to a developing project (Nistat)
+- 5) Implement first-level and second-level analysis of task-based fMRI with nistat
 
 ## New tools and protocols
 To standardized my data:
@@ -54,40 +52,22 @@ To preprocess my data:
 For processing fmriprep with singularity:
 ![ComputeCanada](https://www.computecanada.ca/wp-content/uploads/2015/04/BILINGUAL-CC-WEB-LOGO.png)
 
-## Deliverables
+## Deliverables (contained in the current repo)
 
-* Preprocessed images with fmriprep output
-* Connectivity matrices
-* Jupyter notebook demonstrating analysis for single subjects
-* Python script for group analysis
-* Network connectivity : visualized with python tools
+* 1) Jupyter Notebook with code to produce interactive plots of my structural data
+* 2) Summary of the process of converting my data set to BIDS using dcm2bids
+* 3) Batch script used on Compute Canada to run fmriprep of results
+* 4) Jupyter Notebook with code for first-level analysis
+* 5) Jupyter Notebook with code for second-level analysis
+* 6) Summary of the process of submitting a PR on the Nistat repo
 
-
-
-## To-do list and lingering issues 
-
-- 1) Organize my data set into the BIDS format. 
-  - [x] Apply dcm2bids to dataset
-  - [x] Run bids dataset in the BIDS validator
-  - [ ] Clean data set (main data set already cleaned)
-- 2) Preprocessing with fMRI prep
-  - [ ] Run fmriprep on 1 or 2 participants using singularity on Compute Canada
-  - [ ] Run fmriprep on whole sample (without freesurfer)
-- 3) Motion correction and confound regression
-  - [ ] Select confound regression method
-- 3) Analysis of fuctional connectivity using nilearn
-  - [ ] Connectivity matrix 
-  - [ ] Between- and within- network connectivity metrics
-  - [ ] Group comparison
-  - [ ] Predictive modelling with machine learning
 
 
 ## Website
 
 https://douglas.research.mcgill.ca/fr/centre-manuvie-pour-les-avancees-en-prevention-de-la-depression-et-du-suicide-chez-les-jeunes
 
-
 ## Aknowledgments
 
 ![FQRS](https://conference.ccra-acrc.ca/wp-content/uploads/2016/11/img-supporter-logo-frqs.png)
-![Manulife](https://upload.wikimedia.org/wikipedia/en/thumb/1/11/Manulife_logo_%282018%29.svg/1280px-Manulife_logo_%282018%29.svg.png)
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/Manulife_logo_%282018%29.svg/1280px-Manulife_logo_%282018%29.svg.png"  width="50%">
