@@ -1,7 +1,7 @@
 # Anthony-Gifuni-repo
-__*Exploring Brain Connectivity Networks in Adolescent Suicide Attempters*__
+__*Exploring Brain Functional Activation in Adolescents Who Attempted Suicide*__
 
-## Personal Info :)
+## Personal Info
 
 * Name: Anthony Gifuni. 
 * Education:
@@ -12,10 +12,10 @@ __*Exploring Brain Connectivity Networks in Adolescent Suicide Attempters*__
 ## Current research affiliation
 
 ### McGill Group for Suicide Studies
-![MGSS](https://mgss.ca/images/mgss-logo.jpg)
+![MGSS](https://mgss.ca/images/mgss-logo.jpg=100x20)
 
 ### Douglas Mental Health University Institute
-![DMHUI;Mcgill](http://publications.mcgill.ca/medenews/files/2013/10/Douglas-McGill.jpg)
+![DMHUI;Mcgill](http://publications.mcgill.ca/medenews/files/2013/10/Douglas-McGill.jpg =100x20)
 
 ## General Background
 
