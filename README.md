@@ -13,6 +13,7 @@ __*Exploring Brain Functional Activation in Adolescents Who Attempted Suicide*__
 
 ### McGill Group for Suicide Studies
 ![MGSS](https://mgss.ca/images/mgss-logo.jpg | width=100)
+
 ![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
 
 ### Douglas Mental Health University Institute
