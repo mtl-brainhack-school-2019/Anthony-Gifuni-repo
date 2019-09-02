@@ -18,6 +18,8 @@ __*Exploring Brain Functional Activation in Adolescents Who Attempted Suicide*__
 
 <img src="https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
 
+<img src="https://mgss.ca/images/mgss-logo.jpg"  width="40%">
+
 ### Douglas Mental Health University Institute
 ![DMHUI;Mcgill](http://publications.mcgill.ca/medenews/files/2013/10/Douglas-McGill.jpg)
 
