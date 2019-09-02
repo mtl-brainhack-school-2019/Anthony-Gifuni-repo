@@ -2,7 +2,6 @@
 __*Exploring Brain Functional Activation in Adolescents Who Attempted Suicide*__
 
 ## Personal Info
-
 * Name: Anthony Gifuni. 
 * Education:
 * -MD, MSc, Université de Montreal (2012) 
@@ -10,21 +9,13 @@ __*Exploring Brain Functional Activation in Adolescents Who Attempted Suicide*__
 * -PhD in Neurosciences, McGill university (current)
 
 ## Current research affiliation
-
 ### McGill Group for Suicide Studies
-![MGSS](https://mgss.ca/images/mgss-logo.jpg | width=100)
-
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
-
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
-
-<img src="https://mgss.ca/images/mgss-logo.jpg"  width="40%">
+<img src="https://mgss.ca/images/mgss-logo.jpg"  width="30%">
 
 ### Douglas Mental Health University Institute
 ![DMHUI;Mcgill](http://publications.mcgill.ca/medenews/files/2013/10/Douglas-McGill.jpg)
 
 ## General Background
-
 * Adolescent suicide death are the most common form of premature death in females and the second one for males.
 * Adolescent suicidal attempts are relatively common (more than 5% reports attempting in the previous year)
 * Major depressive disorder is major risk factors for adolescent suicidal behaviors
@@ -48,15 +39,12 @@ __*Exploring Brain Functional Activation in Adolescents Who Attempted Suicide*__
 ![image](https://lh3.googleusercontent.com/z00qKZ209XwpBCIYBqECLENDowFuhK7O5MxdwdMOys6Gb8HxoyH2lB1P0_V_kfXitYYv0ry3ioPl1HjhB_xrC1b-PElSk_A39DS-oUo_NKURcOgpnRi6-dVLS0Z1Ln9sG6TMTaREfg)
 ![image](https://lh3.googleusercontent.com/psRjQQghhzoPGIheuxmPEa9IHLDEcRi5DNXXUg0G8WrclvDKyunDhb936E9DpjTBlLoGoaLKS_wsZ53MD4BlQXEcgywceTfSCMYNui7_oiVAVnNiz-AzqiycDPcV0GuyLAx7scVEiA)
 
-
 ## Objectives for the brain hack 2019:
-
 - 1) Organize my data set into the BIDS format. 
-- 2) Preprocessing with fMRI prep
-- 3) Analysis of fuctional connectivity using nilearn
+- 2) Preprocessing with fMRIprep
+- 3) Implement first-level and second-level analysis of task-based fMRI
 
 ## New tools and protocols
-
 To standardized my data:
 ![BIDS](https://upload.wikimedia.org/wikipedia/commons/d/de/BIDS_Logo.png)
 
@@ -66,9 +54,6 @@ To preprocess my data:
 For processing fmriprep with singularity:
 ![ComputeCanada](https://www.computecanada.ca/wp-content/uploads/2015/04/BILINGUAL-CC-WEB-LOGO.png)
 
-For fonctional connectivity analysis:
-![nilearn](https://nilearn.github.io/_static/nilearn-logo.png)
-
 ## Deliverables
 
 * Preprocessed images with fmriprep output
@@ -77,9 +62,7 @@ For fonctional connectivity analysis:
 * Python script for group analysis
 * Network connectivity : visualized with python tools
 
-Here is an example of some of figures I would like to generate for this project:
-https://www.pnas.org/content/116/17/8582.short
-![deliverable](https://www.pnas.org/content/pnas/116/17/8582/F1.large.jpg?width=800&height=600&carousel=1)
+
 
 ## To-do list and lingering issues 
 
