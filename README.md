@@ -24,6 +24,7 @@ My research project aims at identifying neuroimaging markers associated with sui
 * Go-No-Go Task
 * T1 anatomical scan (MPRAGE - adni protocol)
 * Diffusion Tensor Imaging
+
 During the BrainHack, my objective was to develop new skills to organize this dataset, perform cutting-edge preprocessing, and start analysis of functional data with python open source packages. 
 
 ## Project definition What were you trying to accomplish, what was your question.
@@ -52,12 +53,11 @@ Week 4: During week 4, I initiated a pull request on the Nistat main repo, conta
 
 ## Results : The deliverables of your project
 
-* 1) Jupyter Notebook with code to produce interactive plots of my structural data
-[1](https://github.com/mtl-brainhack-school-2019/Anthony-Gifuni-repo/blob/master/Interactive-Plotting-Using-Nilearn-and-Widgets.ipynb)
-* 2) Batch script used on Compute Canada to run fmriprep of results
-* 3) Jupyter Notebook with code for first-level analysis
-* 4) Jupyter Notebook with code for second-level analysis
-* 5) Summary of the process of submitting a PR on the Nistat repo
+* 1) [Jupyter Notebook with code to produce interactive plots of my structural data](https://github.com/mtl-brainhack-school-2019/Anthony-Gifuni-repo/blob/master/Interactive-Plotting-Using-Nilearn-and-Widgets.ipynb)
+* 2) [Batch script used on Compute Canada to run fmriprep of results](https://github.com/mtl-brainhack-school-2019/Anthony-Gifuni-repo/blob/master/fMRIprep.sbatch)
+* 3) [Jupyter Notebook with code for first-level analysis](https://github.com/mtl-brainhack-school-2019/Anthony-Gifuni-repo/blob/master/fMRI-First-Level-Analysis.ipynb)
+* 4) [Jupyter Notebook with code for second-level analysis](https://github.com/mtl-brainhack-school-2019/Anthony-Gifuni-repo/blob/master/fMRI-Second-Level-Analysis.ipynb)
+* 5) [Summary of the process of submitting a PR on the Nistat repository](https://github.com/mtl-brainhack-school-2019/Anthony-Gifuni-repo/blob/master/Github-PR-example.md)
 
 
 Adolescent suicide death are the most common form of premature death in females and the second one for males.
